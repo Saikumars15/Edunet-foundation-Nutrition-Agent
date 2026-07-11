@@ -17,7 +17,7 @@ IBM_API_KEY=YOUR_IBM_API_KEY
 WATSONX_PROJECT_ID=YOUR_PROJECT_ID
 
 # IBM Watsonx.ai URL (default: Dallas region)
-WATSONX_URL=https://au-syd.ml.cloud.ibm.com
+WATSONX_URL=IBM_URL
 
 # Flask secret key — change this to a long random string
 FLASK_SECRET_KEY=change_me_to_a_secure_random_string_at_least_32_chars
@@ -45,7 +45,7 @@ IBM_API_KEY=YOUR_IBM_API_KEY
 WATSONX_PROJECT_ID=YOUR_PROJECT_ID
 
 # IBM Watsonx.ai URL (default: Dallas region)
-WATSONX_URL=https://au-syd.ml.cloud.ibm.com
+WATSONX_URL= IBM_URL
 
 # Flask secret key — change this to a long random string
 FLASK_SECRET_KEY=change_me_to_a_secure_random_string_at_least_32_chars
